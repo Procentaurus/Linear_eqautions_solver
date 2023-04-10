@@ -8,3 +8,5 @@ and diagonal characteristics. Handling of basic operations on matrices is also p
 
 File Solver.py contains implementation of Gauss-Seidl method, Jacobi method and special version of LU factorization, that is dedicated to operations on banded matrices.
 
+File ErrorManager.py contains simple implementation of counting resisuum  of counted solution and later counting second norm of it.
+
